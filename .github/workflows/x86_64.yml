@@ -10,8 +10,6 @@ on:
       - master
     paths:
       - 'x86_64/x86_64.config'
-  schedule:
-    - cron: 0 17 * * *
   # watch:
   #   types: started
 
